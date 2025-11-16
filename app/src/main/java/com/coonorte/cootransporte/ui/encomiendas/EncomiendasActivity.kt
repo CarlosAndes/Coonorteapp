@@ -1,0 +1,15 @@
+package com.coonorte.cootransporte.ui.encomiendas
+
+import android.os.Bundle
+import androidx.activity.ComponentActivity
+import androidx.activity.compose.setContent
+
+class EncomiendasActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+        setContent {
+            EncomiendasScreen()
+        }
+    }
+}
