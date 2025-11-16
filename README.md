@@ -1,4 +1,4 @@
-# 🚍 CoonorteApp – Aplicación Móvil del Sistema de Transporte
+#  CoonorteApp – Aplicación Móvil del Sistema de Transporte
 
 Este repositorio contiene el **código fuente oficial** de la aplicación móvil **CoonorteApp**, desarrollada como parte del proyecto integral del SENA para la evidencia:
 
@@ -20,7 +20,7 @@ La app incluye los módulos fundamentales definidos por los requerimientos del p
 - Manejo de errores.
 - Navegación segura al menú principal.
 
-### 📝 **2. Registro de usuarios**
+###  **2. Registro de usuarios**
 - Formulario para nuevos usuarios.
 - Validación de campos vacíos.
 - Retroalimentación visual.
@@ -41,12 +41,12 @@ Acceso directo a:
 ###  **5. Encomiendas (modo prototipo)**
 - Pantalla inicial preparada para mostrar envíos.
 
-### 🧾 **6. Ventas (modo prototipo)**
+###  **6. Ventas (modo prototipo)**
 - Listado base de compras del usuario.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 La aplicación fue desarrollada con herramientas modernas del ecosistema Android:
 
